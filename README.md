@@ -1,4 +1,5 @@
 # Demand Forecasting and Inventory Optimisation (Python + MySQL)
+# Author: Pankaj Varpe
 
 Weekly demand forecasts per store and item, turned into safety stock and reorder points, then tested in a 12-month daily inventory simulation against a naive policy.
 

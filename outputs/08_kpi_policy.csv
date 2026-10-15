@@ -1,0 +1,4 @@
+policy,fill_rate,stockout_days,avg_inventory_units,holding,ordering,stockout,total
+naive,0.9938,2292.0,393756.0,235186.0,233229.0,180591.0,649006.0
+forecast_no_ss,0.9968,1522.0,393456.0,235028.0,233998.0,92649.0,561675.0
+forecast_ss,0.9997,189.0,412290.0,247959.0,235606.0,8864.0,492429.0

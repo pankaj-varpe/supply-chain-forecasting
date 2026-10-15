@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+lightgbm
+scipy
+jupyter
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
